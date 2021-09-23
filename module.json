@@ -1,0 +1,17 @@
+{
+   "name": "witchlight-maps",
+   "title": "Witchlight Maps",
+   "description": "A collection of game ready scenes from The Wild Beyond The Witchlight",
+   "author": "Horrible Tomato",
+   "version": "1.0.0",
+   "compatibleCoreVersion": "0.8.9",
+   "packs": [
+    {
+      "name": "witchlightscenes",
+      "label": "Witchlight Scenes",
+      "path": "./packs/witchlightscenes.db",
+      "entity": "Scene",
+      "module": "The Wild Beyond the Witchlight"
+    }
+  ]
+}
